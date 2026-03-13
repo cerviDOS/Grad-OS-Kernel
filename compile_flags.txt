@@ -1,0 +1,6 @@
+-fno-pie 
+-m32 
+-ffreestanding 
+-Iinclude 
+-Wall 
+-xc-header
